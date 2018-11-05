@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: bed4aee5f3739764cbfb5d256c066b2d
+timeCreated: 1538339606
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Asset 1@2x_0
+    21300002: Asset 1@2x_1
+    21300004: Asset 1@2x_2
+    21300006: Asset 1@2x_3
+    21300008: Asset 1@2x_4
+    21300010: Asset 1@2x_5
+    21300012: Asset 1@2x_6
+    21300014: Asset 1@2x_7
+    21300016: Asset 1@2x_8
+    21300018: Asset 1@2x_9
+    21300020: Asset 1@2x_10
+    21300022: Asset 1@2x_11
+    21300024: Asset 1@2x_12
+    21300026: Asset 1@2x_13
+    21300028: Asset 1@2x_14
+    21300030: Asset 1@2x_15
+    21300032: Asset 1@2x_16
+    21300034: Asset 1@2x_17
+    21300036: Asset 1@2x_18
+    21300038: Asset 1@2x_19
+    21300040: Asset 1@2x_20
+    21300042: Asset 1@2x_21
+    21300044: Asset 1@2x_22
+    21300046: Asset 1@2x_23
+    21300048: Asset 1@2x_24
+    21300050: Asset 1@2x_25
+    21300052: Asset 1@2x_26
+    21300054: Asset 1@2x_27
+    21300056: Asset 1@2x_28
+    21300058: Asset 1@2x_29
+    21300060: Asset 1@2x_30
+    21300062: Asset 1@2x_31
+    21300064: Asset 1@2x_32
+    21300066: Asset 1@2x_33
+    21300068: Asset 1@2x_34
+    21300070: Asset 1@2x_35
+    21300072: Asset 1@2x_36
+    21300074: Asset 1@2x_37
+    21300076: Asset 1@2x_38
+    21300078: Asset 1@2x_39
+    21300080: Asset 1@2x_40
+    21300082: Asset 1@2x_41
+    21300084: Asset 1@2x_42
+    21300086: Asset 1@2x_43
+    21300088: Asset 1@2x_44
+    21300090: Asset 1@2x_45
+    21300092: Asset 1@2x_46
+    21300094: Asset 1@2x_47
+    21300096: Asset 1@2x_48
+    21300098: Asset 1@2x_49
+    21300100: Asset 1@2x_50
+    21300102: Asset 1@2x_51
+    21300104: Asset 1@2x_52
+    21300106: Asset 1@2x_53
+    21300108: Asset 1@2x_54
+    21300110: Asset 1@2x_55
+    21300112: Asset 1@2x_56
+    21300114: Asset 1@2x_57
+    21300116: Asset 1@2x_58
+    21300118: Asset 1@2x_59
+    21300120: Asset 1@2x_60
+    21300122: Asset 1@2x_61
+    21300124: Asset 1@2x_62
+    21300126: Asset 1@2x_63
+    21300128: Asset 1@2x_64
+    21300130: Asset 1@2x_65
+    21300132: Asset 1@2x_66
+    21300134: Asset 1@2x_67
+    21300136: Asset 1@2x_68
+    21300138: Asset 1@2x_69
+    21300140: Asset 1@2x_70
+    21300142: Asset 1@2x_71
+    21300144: Asset 1@2x_72
+    21300146: Asset 1@2x_73
+    21300148: Asset 1@2x_74
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset 1@2x_0
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 6843
+        width: 1411
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_1
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 7039
+        width: 441
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_2
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 6989
+        width: 709
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_3
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 6989
+        width: 156
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_4
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 7039
+        width: 442
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_5
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 6932
+        width: 959
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_6
+      rect:
+        serializedVersion: 2
+        x: 8998
+        y: 6807
+        width: 1234
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 5993
+        width: 1286
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_8
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 5993
+        width: 521
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_9
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 5993
+        width: 525
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_10
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 6007
+        width: 382
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_11
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 6007
+        width: 1252
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_12
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 6007
+        width: 514
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_13
+      rect:
+        serializedVersion: 2
+        x: 6107
+        y: 6007
+        width: 518
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_14
+      rect:
+        serializedVersion: 2
+        x: 6751
+        y: 6021
+        width: 379
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_15
+      rect:
+        serializedVersion: 2
+        x: 7349
+        y: 6021
+        width: 1256
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_16
+      rect:
+        serializedVersion: 2
+        x: 9060
+        y: 5640
+        width: 1182
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_17
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 5222
+        width: 521
+        height: 666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_18
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 5210
+        width: 722
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_19
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 5249
+        width: 590
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_20
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 5222
+        width: 556
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_21
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 5277
+        width: 569
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_22
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 5263
+        width: 650
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_23
+      rect:
+        serializedVersion: 2
+        x: 6493
+        y: 5374
+        width: 1252
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_24
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2723
+        width: 3261
+        height: 2261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_25
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 2501
+        width: 1948
+        height: 2670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_26
+      rect:
+        serializedVersion: 2
+        x: 7154
+        y: 4150
+        width: 522
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_27
+      rect:
+        serializedVersion: 2
+        x: 9095
+        y: 4616
+        width: 1172
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_28
+      rect:
+        serializedVersion: 2
+        x: 9179
+        y: 3566
+        width: 1160
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_29
+      rect:
+        serializedVersion: 2
+        x: 6375
+        y: 3030
+        width: 244
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_30
+      rect:
+        serializedVersion: 2
+        x: 6897
+        y: 3030
+        width: 243
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_31
+      rect:
+        serializedVersion: 2
+        x: 7149
+        y: 3030
+        width: 242
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_32
+      rect:
+        serializedVersion: 2
+        x: 7405
+        y: 3030
+        width: 480
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_33
+      rect:
+        serializedVersion: 2
+        x: 7893
+        y: 3030
+        width: 242
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_34
+      rect:
+        serializedVersion: 2
+        x: 11648
+        y: 2606
+        width: 351
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_35
+      rect:
+        serializedVersion: 2
+        x: 12086
+        y: 2565
+        width: 556
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_36
+      rect:
+        serializedVersion: 2
+        x: 12664
+        y: 2565
+        width: 128
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_37
+      rect:
+        serializedVersion: 2
+        x: 12973
+        y: 2606
+        width: 350
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_38
+      rect:
+        serializedVersion: 2
+        x: 13471
+        y: 2522
+        width: 757
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_39
+      rect:
+        serializedVersion: 2
+        x: 11634
+        y: 2445
+        width: 2608
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_40
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1624
+        width: 465
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_41
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1603
+        width: 466
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_42
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1562
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_43
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 1611
+        width: 1038
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_44
+      rect:
+        serializedVersion: 2
+        x: 4775
+        y: 1614
+        width: 430
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_45
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 1604
+        width: 431
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_46
+      rect:
+        serializedVersion: 2
+        x: 11606
+        y: 1948
+        width: 344
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_47
+      rect:
+        serializedVersion: 2
+        x: 11996
+        y: 1941
+        width: 471
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_48
+      rect:
+        serializedVersion: 2
+        x: 12483
+        y: 1966
+        width: 388
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_49
+      rect:
+        serializedVersion: 2
+        x: 12942
+        y: 1948
+        width: 365
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_50
+      rect:
+        serializedVersion: 2
+        x: 13380
+        y: 1986
+        width: 379
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_51
+      rect:
+        serializedVersion: 2
+        x: 13797
+        y: 1973
+        width: 431
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_52
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 1729
+        width: 216
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_53
+      rect:
+        serializedVersion: 2
+        x: 6285
+        y: 1756
+        width: 83
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_54
+      rect:
+        serializedVersion: 2
+        x: 11662
+        y: 1535
+        width: 2549
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_55
+      rect:
+        serializedVersion: 2
+        x: 11641
+        y: 1103
+        width: 2559
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_56
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 597
+        width: 466
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_57
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 581
+        width: 476
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_58
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 567
+        width: 479
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_59
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 567
+        width: 472
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_60
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 553
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_61
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 497
+        width: 584
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_62
+      rect:
+        serializedVersion: 2
+        x: 5958
+        y: 532
+        width: 556
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_63
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 560
+        width: 542
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_64
+      rect:
+        serializedVersion: 2
+        x: 7377
+        y: 484
+        width: 348
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_65
+      rect:
+        serializedVersion: 2
+        x: 7996
+        y: 504
+        width: 529
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_66
+      rect:
+        serializedVersion: 2
+        x: 8782
+        y: 504
+        width: 410
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_67
+      rect:
+        serializedVersion: 2
+        x: 11662
+        y: 570
+        width: 1035
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_68
+      rect:
+        serializedVersion: 2
+        x: 12824
+        y: 574
+        width: 430
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_69
+      rect:
+        serializedVersion: 2
+        x: 13366
+        y: 574
+        width: 431
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_70
+      rect:
+        serializedVersion: 2
+        x: 13895
+        y: 583
+        width: 318
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_71
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 63
+        width: 1043
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_72
+      rect:
+        serializedVersion: 2
+        x: 12824
+        y: 63
+        width: 430
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_73
+      rect:
+        serializedVersion: 2
+        x: 13366
+        y: 63
+        width: 431
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asset 1@2x_74
+      rect:
+        serializedVersion: 2
+        x: 13895
+        y: 75
+        width: 318
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
